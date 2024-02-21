@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Don Sanoj</h1>
+<h1 align="center">Hi 👋, I'm Sanoj Aminda</h1>
 <h3 align="center">I am a Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donsanoj&label=Profile%20views&color=0e75b6&style=flat" alt="donsanoj" /> </p>
