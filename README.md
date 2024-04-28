@@ -3,18 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sanoj Aminda</h1>
 <p align="center">
 Let:
-
-    D(x) = {
-        1, if x is a developer
-    }
-
-    W(x) = {
-        1, if x is a web developer
-    }
-
-    S(x) = {
-        1, if x is a software developer
-    }
+    D(x) = { 1, if x is a developer }
+    W(x) = { 1, if x is a web developer }
+    S(x) = { 1, if x is a software developer }
 </p>
 <h3 align="center">D(x) = W(x) ∧ S(x)</h3> 
 
