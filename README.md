@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sanoj Aminda</h1>
-<p align="left">
+<p align="justify">
 Let: <br>
     &nbsp;D(x) = { 1, if x is a developer } <br>
     &nbsp;W(x) = { 1, if x is a web developer } <br>
