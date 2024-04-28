@@ -1,7 +1,22 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sanoj Aminda</h1>
-<h3 align="center">I am a Developer.</h3> 
+<h4 align="center">
+Let:
+
+D(x) = {
+    1, if x is a developer
+}
+
+W(x) = {
+    1, if x is a web developer
+}
+
+S(x) = {
+    1, if x is a software developer
+}
+</h4>
+<h3 align="center">D(x) = W(x) ∧ S(x)</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donsanoj&label=Profile%20views&color=0e75b6&style=flat" alt="donsanoj" /> </p>
 
