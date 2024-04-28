@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sanoj Aminda</h1>
 <p align="justify">
 Let: <br>
-    &nbsp;D(x) = { 1, if x is a developer } <br>
-    &nbsp;W(x) = { 1, if x is a web developer } <br>
-    &nbsp;S(x) = { 1, if x is a software developer }
+    &nbsp;&nbsp;&nbsp;D(x) = { 1, if x is a developer } <br>
+    &nbsp;&nbsp;&nbsp;W(x) = { 1, if x is a web developer } <br>
+    &nbsp;&nbsp;&nbsp;S(x) = { 1, if x is a software developer }
 </p>
 <h3 align="center">D(x) = W(x) ∧ S(x)</h3> 
 
