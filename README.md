@@ -48,6 +48,8 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donsanoj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donsanoj&layout=compact&langs_count=8&theme=dark"/> -->
 <!-- </p> -->
+### Holopin badges for Hacktoberfest
+[![An image of @donsanoj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donsanoj)](https://holopin.io/@donsanoj)
 
 ## Connect With Me
 
@@ -62,8 +64,6 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
-
-[![An image of @donsanoj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donsanoj)](https://holopin.io/@donsanoj)
 
 <!-- <p align="center"> 
   Visitor count<br>
