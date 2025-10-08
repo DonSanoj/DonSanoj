@@ -63,6 +63,8 @@
   </a>
 </p>
 
+[![An image of @donsanoj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donsanoj)](https://holopin.io/@donsanoj)
+
 <!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/donsanoj/count.svg" />
