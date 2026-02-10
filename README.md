@@ -1,62 +1,78 @@
 # Hi, I'm Sanoj Aminda 👋
 
 ## About Me
-🎓 Undergraduate at Plymouth University in Computer Security  
-💻 Full-Stack Developer | Software Engineer  
-🚀 Passionate about building innovative solutions  
+🎓 Undergraduate at **Plymouth University** in Computer Security with a     strong focus on **Low-Level Systems, OS Internals, and Defensive Security**. 
+
+I build across **User Space, Kernel Space, and Storage Layers**, and I'm comfortable working in hostile environments where failure means **System Crashes**, not error messages.
+
+## Core Focus Areas
+
+### Systems & Security
+- Windows Kernel Development 
+    - Storage Filter Drivers
+    - Minifilter Drivers
+    - Kernel Device Drivers
+- Linux Kernel Modules
+- Boot process & Disk-level protection (MBR / GPT)
+- File Systems (NTFS)
+- Ransomware attack simulation & mitigation
 
 ## Skills & Technologies
 
 ### Programming Languages
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,javascript,typescript,dart"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,assembly"/>
+    </a>
+</p>
+
+### Application & Services
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java"/>
     </a>
 </p>
 
 ### Web Development
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,php,dotnet,vite,react,nextjs,tailwind,bootstrap"/>
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,vite,nextjs"/>
     </a>
 </p>
 
 ### Databases
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,firebase,redis,supabase"/>
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,redis"/>
     </a>
 </p>
 
 ### DevOps & Cloud
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,azure,aws,githubactions,vercel"/>
+        <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel"/>
     </a>
 </p>
 
-### Tools
+### Tools & Platforms
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,visualstudio,windows,kali,git,github,postman"/>
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vscodium,windows,kali,linux,git,github"/>
     </a>
 </p>
 
-<!-- ## GitHub Stats -->
+## Engineering Philosophy
 
-<!-- <p align="left"> -->
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donsanoj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donsanoj&layout=compact&langs_count=8&theme=dark"/> -->
-<!-- </p> -->
-### Holopin badges for Hacktoberfest
+- Learn systems by breaking and observing real behavior
+- BSODs are feedback, not failure
+- Depth and correctness matter more than surface-level breadth
+
+## Holopin badges for Hacktoberfest
 [![An image of @donsanoj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donsanoj)](https://holopin.io/@donsanoj)
 
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanoj-aminda/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
   <a href="https://twitter.com/sanoj1128">
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
@@ -64,8 +80,3 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
-
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/donsanoj/count.svg" />
-</p> -->
