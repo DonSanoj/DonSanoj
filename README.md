@@ -50,7 +50,7 @@ I build across **User Space, Kernel Space, and Storage Layers**, and I'm comfort
 ### DevOps & Cloud
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel"/>
+        <img src="https://skillicons.dev/icons?i=docker,terraform,nginx,ansible,githubactions,vercel"/>
     </a>
 </p>
 
